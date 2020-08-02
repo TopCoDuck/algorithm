@@ -1,4 +1,4 @@
-package math;
+package baekjoon;
 
 public class ¹Ì·Î_Å½»ö_2178 {
 

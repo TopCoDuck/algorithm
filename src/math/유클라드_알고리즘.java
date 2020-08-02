@@ -1,4 +1,4 @@
-package baekjoon;
+package math;
 /**
  * 최대 공약수
  * @author us

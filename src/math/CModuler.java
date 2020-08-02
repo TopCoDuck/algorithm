@@ -1,4 +1,4 @@
-package baekjoon;
+package math;
 
 public class CModuler {
 	
